@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97d3d6ee-2a15-47f6-b1c3-8a7cbc8d12b9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/social-proof-section-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design/desktop-design.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design/desktop-preview.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design/mobile-design.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bg-pattern-bottom-desktop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bg-pattern-bottom-mobile.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bg-pattern-top-desktop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bg-pattern-top-mobile.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon-star.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image-anne.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image-colton.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image-irene.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style-guide.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kNkyScKUlIQ8KFQ5Jqq4QBktH9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97d3d6ee-2a15-47f6-b1c3-8a7cbc8d12b9" name="Default Changelist" comment="" />
+      <created>1605548691362</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605548691362</updated>
+      <workItem from="1605548692546" duration="10546000" />
+      <workItem from="1605561916684" duration="158000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project" />
+  </component>
+</project>
